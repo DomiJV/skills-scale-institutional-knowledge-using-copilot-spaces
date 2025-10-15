@@ -60,7 +60,7 @@ This documentation suite covers the complete project lifecycle:
 
 These documents are designed to work seamlessly with GitHub Copilot Spaces:
 
-- Add process-specific docs to your project's `.copilot/` directory to provide context-aware assistance
+- Add relevant process documents to your project's `.copilot/` directory to provide context-aware assistance (e.g., copy the Project Initiation guide for new projects, or the Execution and Tracking guide for active deliveries)
 - Reference these documents when asking Copilot for project management guidance
 - Keep your project's documentation aligned with these standards for consistency
 
@@ -74,7 +74,3 @@ Our processes evolve as we learn. If you have suggestions for improvements:
 4. Update related documents to maintain consistency
 
 Remember: good documentation is clear, concise, and actionable. Keep the audience in mind and focus on providing value to team members at all levels.
-
----
-
-_Last updated: 2025-10-15_
